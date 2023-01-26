@@ -1,0 +1,46 @@
+p{
+  text-align: center;
+  color: bisque;
+  font-family: Luminari;
+  font-size: 25px;
+  background-color: darkorange;
+}
+
+/*body{background-image: url("ig logo.webp")}*/
+{background-size: cover}
+{background-position: center}
+button
+{padding: 15px;
+background-color: burlywood;
+color: #44091e;
+  text-align: end;
+}
+/*css for tables*/
+table{width: 100%;
+  border-collapse: collapse;
+  border-color: indigo;
+
+
+}
+th,td{border: #cccccc 3px dashed;
+  font-family: .AppleSystemUIFont;
+  text-align: centre;
+  padding: 5px;
+  border-radius: 25px;
+  border-color: indigo;
+}
+td:nth-child(even){
+  background-color: darksalmon;
+}
+tr:nth-child(even){
+background-color: aqua;
+  font-size: smaller;
+  ;
+
+}
+tr:nth-child(odd){
+  background-color: tomato;
+font-family: Luminari}
+
+li{ float: left;
+    padding: 20px}
